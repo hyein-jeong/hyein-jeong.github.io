@@ -1,15 +1,28 @@
 ---
 layout: page
-title: About
+title: /about
 permalink: /about/
 ---
+&nbsp;
+<h1>Introduction</h1>
 
-Some information about you!
+Please click this to see my detailed CV.
 
-### More Information
+&nbsp;
+<ul>
 
-A place to include any other types of information that you'd like to include about yourself.
+##### Current position:
+Researcher and PhD student at Cognitive Science: Language and Methods Lab, Department of Linguistics, University of Potsdam (under the supervision of Dr.Audrey Bürki)</li>
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+##### Research Interest:
+<li> Psycholinguistics, Cognitive neuroscience, Neural correlates of language processing, Embodied cognition, Semantic/Syntactic processing, Language acquisition/learning, Computational Modeling, Artificial Intelligence.</li>
+
+
+##### Technical Skills:
+<li> Proficient in: R, Python, Matlab, Praat, SPSS, EEG software (E-Prime, Brain Products Recorder & Analyzer for EEG)
+</li>
+<li> Familiar with: DMDX, OpenSesame, Audacity, eye-tracking software (SMI Experiment Center, SMI BeGaze)
+</li>
+</ul>
+&nbsp;
