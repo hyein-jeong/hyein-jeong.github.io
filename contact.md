@@ -10,7 +10,7 @@ permalink: /contact
   
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
-<form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycby9UD1hY-kS3WPUskcd0KyCynxdzIQlyUnAYWgEVPKHknZYrOA/exec" target="after" onsubmit="close()">
+<form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycbyxB_P7m8kRzSKQl_YXbuUKpcg2FFt7BeMEI9qcZJydvqdTQqw/exec" target="after" onsubmit="close()">
 <form>
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
