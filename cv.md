@@ -1,3 +1,9 @@
+---
+title: /cv
+layout: page
+permalink: /cv
+---
+
 cv.pdf
 
 <object data="https://github.com/hyein-jeong/hyein-jeong.github.io/blob/master/_data/cv.pdf" type="application/pdf" width="700px" height="700px">
