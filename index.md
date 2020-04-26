@@ -19,8 +19,8 @@ Proficient in: R, Python, Matlab, Praat, SPSS, EEG software (E-Prime, Brain Prod
 Familiar with: DMDX, OpenSesame, Audacity, eye-tracking software (SMI Experiment Center, SMI BeGaze) 
 
 
-&nbsp&
+.
 Click [this link](https://www.linkedin.com/in/hyein-jeong-aab448a3/) to see my Linkedin profile. 
-&nbsp&
+
 
 updated. Apr 2020
