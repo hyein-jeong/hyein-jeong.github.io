@@ -4,8 +4,13 @@ layout: page
 permalink: /cv
 ---
 
-clikc to download [cv.pdf](https://github.com/hyein-jeong/hyein-jeong.github.io/data/cv.pdf)
+[click to see the cv](http://hyein-jeong/hyein-jeong.github.io/data/cv.pdf).
 
-[cv](http://hyein-jeong/hyein-jeong.github.io/data/cv.pdf).
+original display
+<a href="/data/cv.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""> click to see the cv</a>	
 
-<a href="/data/cv.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">diaplay1</a>	
+
+display in iframe
+
+<iframe height="300px" width="100%" src="https://hyein-jeong.github.io/cv.md" name="myframe"></iframe>
+<a href="/data/cv.pdf" class="image fit" target="myframe"><img src="images/marr_pic.jpg" alt=""> click to see the cv</a>	
