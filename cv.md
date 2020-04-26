@@ -12,5 +12,5 @@ original display
 
 display in iframe
 
-<iframe height="300px" width="100%" src="https://hyein-jeong.github.io/cv.md" name="myframe"></iframe>
-<a href="/data/cv.pdf" class="image fit" target="myframe"><img src="images/marr_pic.jpg" alt=""> click to see the cv</a>	
+<iframe height="300px" width="100%" name="myframe"></iframe>
+<a href="/data/cv.pdf" class="image fit" target="myframe"><img src="images/marr_pic.jpg" alt=""> click to see the cv</a>
