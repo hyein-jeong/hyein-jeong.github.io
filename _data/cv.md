@@ -18,7 +18,7 @@ Konkuk University, Seoul, South Korea.
 - B.A. 2013. Communication science (Language Communication), Konkuk University, Seoul, South Korea.
   - Thesis: Incremental and Predictive sentence processing in Korean: Lexical constraints on sentence comprehension. (Supervisor: Prof. Dr. Upyong Hong.)
   - This study investigates the predictive mechanism underlying semantic integration between an adjective and a noun in Korean sentence comprehension.
-
+  
 
 ### Technical Skills
 - Proficient in: R, Python, Matlab, Praat, SPSS, EEG software (E-Prime, Brain Products Recorder & Analyzer for EEG)
